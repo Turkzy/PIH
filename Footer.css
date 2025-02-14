@@ -1,0 +1,18 @@
+.Footer-container {
+    background-color: #2973b2;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+    font-family: 'Poppins';
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.Footer-title {
+    font-size: 13px;
+    font-weight: 400;   
+}   
+
+
+
